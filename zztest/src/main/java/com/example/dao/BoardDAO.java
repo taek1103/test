@@ -13,7 +13,7 @@ import com.example.domain.BoardVO;
 		<mapper namespace="com.example.dao.BoardDAO">
 
 	2. DAO 클래스에서
-		함수명과 mapper에서의 ID값 동일
+		함수명과 mapper에서의 ID값 동일 dddddd
 */
 @Mapper
 public interface BoardDAO {
