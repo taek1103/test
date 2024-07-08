@@ -1,3 +1,3 @@
 package com.example.dao;
 
-// git 연동.s
+// git 연동
